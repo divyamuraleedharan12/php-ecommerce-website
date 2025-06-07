@@ -25,3 +25,8 @@ This is a fully functional e-commerce site built with PHP, MySQL, and Bootstrap.
 ![Home Page](screenshots/home.png)
 ![Cart Page](screenshots/cart.png)
 ![Admin Panel](screenshots/admin.png)
+![Screenshot 2025-06-07 091131](https://github.com/user-attachments/assets/ae0e32d9-47a6-460b-a758-e954ad3bfb74)
+![Screenshot 2025-06-07 091155](https://github.com/user-attachments/assets/3c6db806-4786-4177-a1a1-c99253cef06c)
+![Screenshot 2025-06-07 091252](https://github.com/user-attachments/assets/1eaca921-1896-4146-a7de-7e374bc9a53d)
+
+
